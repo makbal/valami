@@ -1,5 +1,5 @@
 language: csharp
 solution: valami.sln
 install:
-	- sudo apt-get install -y gtk-sharp2
-	- nuget restore valami.sln
+- sudo apt-get install -y gtk-sharp2
+- nuget restore valami.sln
